@@ -1,4 +1,4 @@
 # git-demo
-name : praveen
-<br> IT-C
+name : s.mamatha
+<br> cse-a
 <br> MLR
